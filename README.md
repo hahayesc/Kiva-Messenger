@@ -7,7 +7,7 @@ Kiva Messenger is an up-and-coming messaging app meant to be light and compatibl
 
 Kiva Messenger is still in development, as of right now the app is in very early stages of development but expect an alpha release in early 2026
 
- Planed devices are going to support Kiva Messenger
+ Planned devices are going to support Kiva Messenger
 1. Windows 8.1+
 2. Android 4.0.4+
 3. IOS 6.1+
