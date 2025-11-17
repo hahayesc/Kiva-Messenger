@@ -1,4 +1,8 @@
-<img width="1919" height="1029" alt="kivaleak" src="https://github.com/user-attachments/assets/e0743abe-d6a9-4ddc-b6c0-0ccbc540dd79" /># Kiva Messenger.
+Kiva Messenger.
+
+<img width="121" height="116" alt="image" src="https://github.com/user-attachments/assets/09081e54-a1f7-4842-ae99-a7827a9560bb" />
+
+
 Kiva Messenger is an up-and-coming messaging app meant to be light and compatible with a lot of devices.
 
 Kiva Messenger is still in development, as of right now the app is in very early stages of development but expect an alpha release in early 2026
